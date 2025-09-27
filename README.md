@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning about Machine Learning Fundamentals 🛠️
   
-- 📫 How to reach me: [🔗](https://www.linkedin.com/in/divyansh-patwari-90b546380)
+- 📫 How to reach me: [🔗Linkedin](https://www.linkedin.com/in/divyansh-patwari-90b546380)
   
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:
 
