@@ -1,14 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-Here are some ideas to get you started:
+- 👨🏻‍💻 I’m a Big Data Developer/Data Engineer passionate in solving complex data problems, automating workflows, making data more accessible and build end to end automated data pipelines 💻🔀💻
+  Here you'll find a mix of pipeline templates, my sample side projects and other data related stuff, I tinker with in my free time.
 
-- 🔭 I’m a Big Data Developer/Data Engineer passionate in solving complex data problems, automating workflows, making data more accessible and build end to end automated data pipelines.💻🔀💻
+- 🛠️ Technical Skills:
+  Python, Spark, Pyspark, SQL, AWS, Airflow, Databricks, Git, Kafka, Nifi, Scala, GCP, AZURE, Hadoop, Hive, Cloudera, 
 
-- 🛠️ Technical Skills: Python, SQL, AWS, Airflow, Databricks, Kafka, Nifi, Scala, GCP, AZURE, Hadoop, Hive, Cloudera
-
-- 🌱 I’m currently learning about Machine Learning essentials for Data Engineering 🧠
+- 🌱 I’m currently learning -> Flink and Machine Learning essentials for Data Engineering 🧠
   
-- 📫 How to reach me: [🔗Linkedin](https://www.linkedin.com/in/divyansh-patwari-90b546380) [🔗GMAIL](divyanshwork10@gmail.com)
+- 📫 How to reach me: [🔗Linkedin](https://www.linkedin.com/in/divyansh-patwari-90b546380)
   
-- ⚡ Fun fact:
+- 🔬 Open to learn new skills and tools 🚀
 
