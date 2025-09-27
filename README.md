@@ -1,9 +1,9 @@
 # Hi there 👋
 
-- 👨🏻‍💻 I’m a Big Data Developer/Data Engineer passionate in solving complex data problems, automating workflows, making data more accessible and build end to end automated data pipelines 💻🔀💻
+- 👨🏻‍💻 I’m a Big Data Developer/Data Engineer passionate in solving complex data problems, automating workflows, making data more accessible and build end to end automated data pipelines 💻🔀💻 <br>
   Here you'll find a mix of pipeline templates, my sample side projects and other data related stuff, I tinker with in my free time.
 
-- 🛠️ Technical Skills:
+- 🛠️ Technical Skills:<br>
   Python, Spark, Pyspark, SQL, AWS, Airflow, Databricks, Git, Kafka, Nifi, Scala, GCP, AZURE, Hadoop, Hive, Cloudera, 
 
 - 🌱 I’m currently learning -> Flink and Machine Learning essentials for Data Engineering 🧠
