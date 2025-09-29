@@ -6,7 +6,7 @@
 - 🛠️ Technical Skills:<br>
   Python, Spark, Pyspark, SQL, AWS, Airflow, Databricks, Git, Kafka, Nifi, Scala, GCP, AZURE, Hadoop, Hive, Cloudera, 
 
-- 🌱 I’m currently learning -> Flink and Machine Learning essentials for Data Engineering 🧠
+- 🌱 I’m currently learning -> Machine Learning essentials for Data Engineering 🧠
   
 - 📫 How to reach me: [🔗Linkedin](https://www.linkedin.com/in/divyansh-patwari-90b546380)
   
